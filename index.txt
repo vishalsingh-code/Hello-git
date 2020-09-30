@@ -1,2 +1,4 @@
-this is version one of my software version 2.
+This is a my software version 2.
+Hello github people.
+
 
